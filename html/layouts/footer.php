@@ -40,16 +40,16 @@
                             <i class="fas fa-map-marker-alt"></i> 2351 Crossings Building, Alryad AL1528
                         </li>
                         <li>
-                            <a href="mailto:m@m.com"><i class="far fa-envelope-open"></i> support@edraak.com</a>
+                            <a href="mailto:m@m.com"><i class="far fa-envelope-open"></i> support@RAQMITA.com</a>
                         </li>
                         <li>
                         <a href="tel:0101010"><i class="fas fa-phone"></i> +123 456 7890</a>
                         </li>
                         <li class="social-media mt-4">
-                            <a href="https://www.facebook.com/Edraak.it"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://twitter.com/Edraak7"><i class="fab fa-twitter-square"></i></a>
+                            <a href="https://www.facebook.com/raqmita.it"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://twitter.com/raqmita7"><i class="fab fa-twitter-square"></i></a>
                             <a href="https://api.whatsapp.com/send?phone=+966580129796" target="_blank"><i class="fab fa-whatsapp-square"></i></a>
-                            <a href="https://www.linkedin.com/company/edraak-future"><i class="fab fa-linkedin-square"></i></a>
+                            <a href="https://www.linkedin.com/company/raqmita-future"><i class="fab fa-linkedin-square"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -66,7 +66,7 @@
             <div class = "b" id = "b4"></div>
         </div>
         <div id = "caption">
-            <span>EDRAAK</span> For Technology Solutions
+            <span>RAQMITA</span> For Technology Solutions
         </div>
     </div>
     <script src="assets/js/popper.min.js"></script>

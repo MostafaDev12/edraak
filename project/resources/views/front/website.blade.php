@@ -103,7 +103,7 @@
                         <div class="right-side">
                             <div class="js-header-top d-flex align-items-center justify-content-between">
                                 <i class="fas fa-user"></i>
-                                <span>Edraak</span>
+                                <span>RAQMITA</span>
                             </div>
                             <div class="js-header-middle d-flex align-items-center justify-content-between">
                                 <span>Login</span>

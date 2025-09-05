@@ -267,7 +267,7 @@
 
 
     $('.refresh_code').on( "click", function() {
-      //  var mainurl = 'https://localhost/edraak' ;
+      //  var mainurl = 'https://localhost/raqmita' ;
         var mainurl = window.location.origin ;
         $.get(mainurl+'/contact/refresh_code', function(data, status){
             $('.codeimg1').attr("src",mainurl+"/assets/images/capcha_code.png?time="+ Math.random());

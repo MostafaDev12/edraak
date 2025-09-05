@@ -2,8 +2,8 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 :root {
-	--main-color: #ec9248;
-	--secondary-orange-color: #fcb833;
+	--main-color: #0750a1;
+	--secondary-orange-color: #09a1c8;
     --main-black-color: #2e2d2b;
     --secondary-gray-color: #aaaaaa;
 }
@@ -235,7 +235,7 @@ main{
 	height: 100%;
 }
 .carousel-control-next{
-	background: rgb(238 146 73);
+	background: rgb(145, 224, 245);
     height: 40px;
     width: 40px;
     margin: auto;
@@ -244,7 +244,7 @@ main{
 	right: 20px;
 }
 .carousel-control-prev{
-	background: rgb(238 146 73);
+	background: rgb(145, 224, 245);
     height: 40px;
     width: 40px;
     margin: auto;
@@ -1227,7 +1227,7 @@ footer .social-media a:hover{
     right: 0;
     bottom: 0;
     position: absolute;
-    background: #ee9249cf;
+    background: #0553a996;
 }
 .career-header h2 {
     top: 25vh;

@@ -2,8 +2,8 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 :root {
-	--main-color: #ec9248;
-	--secondary-orange-color: #fcb833;
+	--main-color: #0750a1;
+	--secondary-orange-color: #09a1c8;
     --main-black-color: #2e2d2b;
     --secondary-gray-color: #aaaaaa;
 }
@@ -319,7 +319,7 @@ main{
 	height: 100%;
 }
 .carousel-control-next{
-	background: rgb(238 146 73);
+	background: rgb(145, 224, 245);
     height: 40px;
     width: 40px;
     margin: auto;
@@ -328,7 +328,7 @@ main{
 	right: 20px;
 }
 .carousel-control-prev{
-	background: rgb(238 146 73);
+	background: rgb(145, 224, 245);
     height: 40px;
     width: 40px;
     margin: auto;
@@ -1393,7 +1393,7 @@ footer .social-media a:hover{
     right: 0;
     bottom: 0;
     position: absolute;
-    background: #ee9249cf;
+    background: #0553a996;
 }
 .career-header h2 {
     top: 25vh;
@@ -2033,7 +2033,7 @@ textarea:focus::placeholder{
   /* Create a custom checkbox */
 .product-box label .checkmark {
 	position: absolute;
-    border: 1px solid #ec9248;
+    border: 1px solid #0750a1;
 	height: 25px;
 	width: 25px;
 	left: -25px;
@@ -2471,8 +2471,8 @@ textarea:focus::placeholder{
 /* Start Service Page Cloud*/
 .cloud-p-header{
 	height: unset;
-	background-color: #ff4e00;
-    background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+	background-color: #0851a1;
+    background-image: linear-gradient(315deg, #0851a1 0%, #27b7dd 74%);
 }
 .cloud-p-header h3{
 	color: #fff;
@@ -2662,8 +2662,8 @@ textarea:focus::placeholder{
 /* Start CRM */
 .crm-header{
 	padding: 150px 0 0;
-	background-color: #ff4e00; 
-	background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%)
+	background-color: #0851a1; 
+	background-image: linear-gradient(315deg, #0851a1 0%, #27b7dd 74%)
 }
 .crm-header p + p{
 	color: #ddd;

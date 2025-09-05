@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="{{asset('assets/images/edraak-icon.png')}}">
+    <link rel="icon" href="{{asset('assets/images/raqmita-icon.png')}}">
       <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- CSS FILES -->
     <link rel="stylesheet" href="{{asset('assets/css/all.css')}}">
@@ -32,7 +32,7 @@
         display:none;
     }
 </style>
-    <title>Edraak</title>
+    <title>RAQMITA</title>
 
 <script type="text/javascript">
 	
@@ -40,21 +40,21 @@
 </head>
 <body>
  <div class="career-loading hide">
-    <img src="{{asset('assets/images/edraak.gif')}}">
+    <img src="{{asset('assets/images/raqmita.gif')}}">
 </div> 
 <div class="top-header py-3 px-4">
     <div class="container-fluid d-flex align-items-center justify-content-center justify-content-md-between flex-wrap">
         <div class="left-header d-flex align-items-center justify-content-center">
             <span><a href="tel:+966538551748"><i class="fas fa-phone"></i> +966 538551748</a></span> 
             <span class="px-2">|</span>
-            <span><a href="mailto:info@edraak.it"><i class="fas fa-envelope"></i> info@edraak.it</span></a>
+            <span><a href="mailto:info@raqmita.it"><i class="fas fa-envelope"></i> info@raqmita.it</span></a>
         </div>
         <div class="right-header">
             <div class="social-media">
-                <a href="https://www.facebook.com/Edraakit/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                <a href="https://twitter.com/EdraakIT" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.facebook.com/raqmitait/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com/raqmitaIT" target="_blank"><i class="fab fa-twitter"></i></a>
                 <a href="https://api.whatsapp.com/send?phone=+966538551748" target="_blank"><i class="fab fa-whatsapp"></i></a>
-                <a href="https://www.linkedin.com/company/edraakit/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/company/raqmitait/" target="_blank"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </div>
@@ -133,7 +133,7 @@
 		    <ul class="dropdown-menu languages-dropdown-menu">
 		        	@foreach(DB::table('languages')->get() as $language)
                         <li><a class="dropdown-item d-flex align-items-center" href="{{route('front.language',$language->id)}}"> <img @if($language->sign == 'ar')  src="assets/images/sa.svg"  alt="SA Flag"   @else src="assets/images/gb.svg" alt="England Flag" @endif> {{$language->language}} </a></li>
-                      <!--  <li><a href="https://edraak.it/mobile"> <img > English </a></li>    --> 
+                      <!--  <li><a href="https://raqmita.it/mobile"> <img > English </a></li>    --> 
                         		@endforeach
 			 <!-- <li><a class="dropdown-item d-flex align-items-center" href="#"> <img src="assets/images/sa.svg" alt="SA Flag"> Arabic </a></li>
 			  <li><a class="dropdown-item d-flex align-items-center" href="#"> <img src="assets/images/gb.svg" alt="England Flag"> English </a></li>-->
@@ -221,7 +221,7 @@
                     <ul>
                         	@foreach(DB::table('languages')->get() as $language)
                         <li><a href="{{route('front.language',$language->id)}}"> <img @if($language->sign == 'ar')  src="assets/images/sa.svg"  alt="SA Flag"   @else src="assets/images/gb.svg" alt="England Flag" @endif> {{$language->language}} </a></li>
-                      <!--  <li><a href="https://edraak.it/mobile"> <img > English </a></li>    --> 
+                      <!--  <li><a href="https://raqmita.it/mobile"> <img > English </a></li>    --> 
                         		@endforeach
                     </ul>
                 </li>

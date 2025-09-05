@@ -8,13 +8,13 @@ $(function () {
   //Nice Scroll
   $("body").niceScroll({
     cursorwidth: "10",
-    cursorcolor: "#ec9248",
+    cursorcolor: "#0750a1",
     autohidemode: false,
   });
   $(window).on('shown.bs.modal', function() {
       $(".modal-content").niceScroll({
         cursorwidth: "10",
-        cursorcolor: "#ec9248",
+        cursorcolor: "#0750a1",
         autohidemode: false,
       });
   });

@@ -21,19 +21,19 @@ $(function () {
   //Nice Scroll
   $("body").niceScroll({
     cursorwidth: "10",
-    cursorcolor: "#ec9248",
+    cursorcolor: "#0750a1",
     autohidemode: false,
   });
   $(window).on('shown.bs.modal', function() {
       $(".modal-body .tab").niceScroll({
         cursorwidth: "10",
-        cursorcolor: "#ec9248",
+        cursorcolor: "#0750a1",
         autohidemode: false,
       });
   });
   // Change Color of Navbar depends on current page
 //   var loc = window.location.href; // returns the full URL
-//   if(loc =='https://edraak.it/crm' || loc =='https://edraak.it/erp' || loc =='https://edraak.it/cloud' || loc =='https://edraak.it/it-infrastructure' || loc =='https://edraak.it/contact' || loc =='https://edraak.it/careers') {
+//   if(loc =='https://raqmita.it/crm' || loc =='https://raqmita.it/erp' || loc =='https://raqmita.it/cloud' || loc =='https://raqmita.it/it-infrastructure' || loc =='https://raqmita.it/contact' || loc =='https://raqmita.it/careers') {
 //     $('nav .nav-link').addClass('link-white');
 //   }
   //Fixed Navbar

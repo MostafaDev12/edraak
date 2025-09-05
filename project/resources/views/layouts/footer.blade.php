@@ -45,16 +45,16 @@
                             <i class="fas fa-map-marker-alt"></i> {{ __('site.address') }}
                         </li>
                         <li>
-                            <a href="mailto:info@edraak.it"><i class="far fa-envelope-open"></i> info@edraak.it</a>
+                            <a href="mailto:info@raqmita.it"><i class="far fa-envelope-open"></i> info@raqmita.it</a>
                         </li>
                         <li>
                         <a href="tel:+966538551748 "><i class="fas fa-phone"></i> +966 538551748 </a>
                         </li>
                         <li class="social-media mt-4">
-                            <a href="https://www.facebook.com/Edraakit/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://twitter.com/EdraakIT" target="_blank"><i class="fab fa-twitter-square"></i></a>
+                            <a href="https://www.facebook.com/raqmitait/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://twitter.com/raqmitaIT" target="_blank"><i class="fab fa-twitter-square"></i></a>
                             <a href="https://api.whatsapp.com/send?phone=+966538551748" target="_blank"><i class="fab fa-whatsapp-square"></i></a>
-                            <a href="https://www.linkedin.com/company/edraakit/" target="_blank"><i class="fab fa-linkedin-square"></i></a>
+                            <a href="https://www.linkedin.com/company/raqmitait/" target="_blank"><i class="fab fa-linkedin-square"></i></a>
                         </li>
                     </ul>
                 </div>

@@ -6,7 +6,7 @@
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <h3>wso2 platforms</h3>
-                    <p>It is a lightweight, component oriented; Java based enterprise service bus (ESB). WSO2 ESB allows developers to integrate services and applications in an easy, efficient and productive manner. It also provides ease of connecting cloud applications using a wide array of cloud connectors that comes ready to be used, simply it is microservice open source solution architecture EDRAAK has a good experience in this field</p>
+                    <p>It is a lightweight, component oriented; Java based enterprise service bus (ESB). WSO2 ESB allows developers to integrate services and applications in an easy, efficient and productive manner. It also provides ease of connecting cloud applications using a wide array of cloud connectors that comes ready to be used, simply it is microservice open source solution architecture RAQMITA has a good experience in this field</p>
                 </div>
                 <div class="col-md-5">
                     <img src="assets/images/wso2/wso2.svg" class="w-100">
@@ -63,7 +63,7 @@
     <div class="wso2-dark text-center">
         <div class="container">
             <h2>WSO2 bpm</h2>
-            <p><span>Edraak</span> implement The 100% open source, highly scalable and lean WSO2 Business Process Server helps to increase productivity and enhance competitiveness by enabling developers to easily deploy business processes and models written using Web Services Business Process Execution Language (WS-BPEL) and Business Process Model and Notation (BPMN) standards respectively. It also serves as the business process management and hosting environment for your SOA.</p>
+            <p><span>RAQMITA</span> implement The 100% open source, highly scalable and lean WSO2 Business Process Server helps to increase productivity and enhance competitiveness by enabling developers to easily deploy business processes and models written using Web Services Business Process Execution Language (WS-BPEL) and Business Process Model and Notation (BPMN) standards respectively. It also serves as the business process management and hosting environment for your SOA.</p>
         </div>
     </div>
     <!-- End Wso2 Dark Sec -->

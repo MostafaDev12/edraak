@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="assets/images/edraak-icon.png">
+    <link rel="icon" href="assets/images/raqmita-icon.png">
     <!-- CSS FILES -->
     <link rel="stylesheet" href="assets/css/all.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -23,7 +23,7 @@
     <!-- Fonts -->
     <!-- <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet"> -->
     
-    <title>Edraak</title>
+    <title>RAQMITA</title>
 
 <script type="text/javascript">
 	

@@ -13,7 +13,7 @@ include "layouts/header.php";
                         <div class="header-cont d-flex justify-content-between align-items-center pt-5">
                             <div class="header-q wow fadeInLeft">
                                 <span>Finally a modern</span>
-                                <h1><span>Edraak</span> for web solutions</h1>
+                                <h1><span>RAQMITA</span> for web solutions</h1>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis labore eius incidunt vero tempora accusamus cupiditate adipisci! Beatae corrupti</p>
                                 <div class="header-btns d-flex align-items-center">
                                     <a href="#">Contact us</a>
@@ -28,7 +28,7 @@ include "layouts/header.php";
                             </div>
                             <div class="header-img wow fadeInRight">
                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="radius-box">
-                                    <path fill="#ec9248" d="M37.9,-32.5C48.5,-17,56,-1.3,54.7,15.7C53.4,32.6,43.3,50.7,27.8,58.5C12.3,66.3,-8.6,63.7,-28.2,55.4C-47.8,47.2,-66.2,33.2,-69.3,16.6C-72.5,0,-60.4,-19.3,-46.3,-35.6C-32.2,-51.9,-16.1,-65.3,-1.2,-64.3C13.7,-63.3,27.4,-48,37.9,-32.5Z" transform="translate(100 100)" />
+                                    <path fill="#0750a1" d="M37.9,-32.5C48.5,-17,56,-1.3,54.7,15.7C53.4,32.6,43.3,50.7,27.8,58.5C12.3,66.3,-8.6,63.7,-28.2,55.4C-47.8,47.2,-66.2,33.2,-69.3,16.6C-72.5,0,-60.4,-19.3,-46.3,-35.6C-32.2,-51.9,-16.1,-65.3,-1.2,-64.3C13.7,-63.3,27.4,-48,37.9,-32.5Z" transform="translate(100 100)" />
                                 </svg>
                                 <span class="animation-span-1"></span>
                                 <span class="animation-span-2"></span>
@@ -43,7 +43,7 @@ include "layouts/header.php";
                         <div class="header-cont d-flex justify-content-between align-items-center pt-5">
                             <div class="header-q wow fadeInLeft">
                                 <span>Finally a modern</span>
-                                <h1><span>Edraak</span> for web solutions</h1>
+                                <h1><span>RAQMITA</span> for web solutions</h1>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis labore eius incidunt vero tempora accusamus cupiditate adipisci! Beatae corrupti</p>
                                 <div class="header-btns d-flex align-items-center">
                                     <a href="#">Contact us</a>
@@ -58,7 +58,7 @@ include "layouts/header.php";
                             </div>
                             <div class="header-img wow fadeInRight">
                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="radius-box">
-                                    <path fill="#ec9248" d="M37.9,-32.5C48.5,-17,56,-1.3,54.7,15.7C53.4,32.6,43.3,50.7,27.8,58.5C12.3,66.3,-8.6,63.7,-28.2,55.4C-47.8,47.2,-66.2,33.2,-69.3,16.6C-72.5,0,-60.4,-19.3,-46.3,-35.6C-32.2,-51.9,-16.1,-65.3,-1.2,-64.3C13.7,-63.3,27.4,-48,37.9,-32.5Z" transform="translate(100 100)" />
+                                    <path fill="#0750a1" d="M37.9,-32.5C48.5,-17,56,-1.3,54.7,15.7C53.4,32.6,43.3,50.7,27.8,58.5C12.3,66.3,-8.6,63.7,-28.2,55.4C-47.8,47.2,-66.2,33.2,-69.3,16.6C-72.5,0,-60.4,-19.3,-46.3,-35.6C-32.2,-51.9,-16.1,-65.3,-1.2,-64.3C13.7,-63.3,27.4,-48,37.9,-32.5Z" transform="translate(100 100)" />
                                 </svg>
                                 <span class="animation-span-1"></span>
                                 <span class="animation-span-2"></span>
@@ -82,7 +82,7 @@ include "layouts/header.php";
             <div class="header-cont d-flex justify-content-between align-items-center">
                 <div class="header-q wow fadeInLeft">
                     <span>Finally a modern</span>
-                    <h1><span>Edraak</span> for web solutions</h1>
+                    <h1><span>RAQMITA</span> for web solutions</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis labore eius incidunt vero tempora accusamus cupiditate adipisci! Beatae corrupti</p>
                     <div class="header-btns d-flex align-items-center">
                         <a href="#">Contact us</a>
@@ -97,7 +97,7 @@ include "layouts/header.php";
                 </div>
                 <div class="header-img wow fadeInRight">
                     <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="radius-box">
-                        <path fill="#ec9248" d="M37.9,-32.5C48.5,-17,56,-1.3,54.7,15.7C53.4,32.6,43.3,50.7,27.8,58.5C12.3,66.3,-8.6,63.7,-28.2,55.4C-47.8,47.2,-66.2,33.2,-69.3,16.6C-72.5,0,-60.4,-19.3,-46.3,-35.6C-32.2,-51.9,-16.1,-65.3,-1.2,-64.3C13.7,-63.3,27.4,-48,37.9,-32.5Z" transform="translate(100 100)" />
+                        <path fill="#0750a1" d="M37.9,-32.5C48.5,-17,56,-1.3,54.7,15.7C53.4,32.6,43.3,50.7,27.8,58.5C12.3,66.3,-8.6,63.7,-28.2,55.4C-47.8,47.2,-66.2,33.2,-69.3,16.6C-72.5,0,-60.4,-19.3,-46.3,-35.6C-32.2,-51.9,-16.1,-65.3,-1.2,-64.3C13.7,-63.3,27.4,-48,37.9,-32.5Z" transform="translate(100 100)" />
                     </svg>
                     <span class="animation-span-1"></span>
                     <span class="animation-span-2"></span>
@@ -114,14 +114,14 @@ include "layouts/header.php";
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1>About <span>Edraak</span></h1>
+                <h1>About <span>RAQMITA</span></h1>
                 <h2>Trusted by many <br> Happy Customers</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem vitae amet laborum maxime ea aut molestias Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem vitae amet laborum maxime ea aut molestias consequuntur sint nisi ratione quidem cupiditate eaque magnam minus cum assumenda, suscipit, sequi doloremque?</p>
                 <ul class="list-unstyled">
                     <li><i class="fas fa-check-circle"></i> 100% Client Satisfaction</li>
                     <li><i class="fas fa-check-circle"></i> 100% Client Satisfaction</li>
                 </ul>
-                <a href="#">Start Your Projct with Edraak</a>
+                <a href="#">Start Your Projct with RAQMITA</a>
             </div>
             <div class="col-md-6">
                 <img src="assets/images/about.jpg" class="w-100">
@@ -448,7 +448,7 @@ particlesJS("particles-js", {
         }
       },
       "color": {
-        "value": "#ec9248"
+        "value": "#0750a1"
       },
       "shape": {
         "type": "circle",
@@ -488,7 +488,7 @@ particlesJS("particles-js", {
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#ec9248",
+        "color": "#0750a1",
         "opacity": 0.4,
         "width": 1
       },

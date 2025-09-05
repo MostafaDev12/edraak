@@ -41,7 +41,7 @@
     <div class="products-p" id="products-p">
         <div class="container">
             <span class="sm-span">Our Systems</span>
-            <h3>Discover Edraak Systems</h3>
+            <h3>Discover RAQMITA Systems</h3>
             <div class="filters text-center mb-5">
                 <button type="button" data-mixitup-control data-filter="all" class="btn btn-primary mb-2">All</button>
                 @foreach($cats as $k=>$cat)
@@ -243,7 +243,7 @@
     <!-- Start Fixed Sec -->
     <section class="products-fixed-sec text-center">
         <div class="container">
-            <h2>Edraak Systems</h2>
+            <h2>RAQMITA Systems</h2>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit quisquam velit fugit quaerat possimus voluptatum dicta laborum molestiae eligendi libero ullam beatae soluta sint at</p>
             <a href="#" class="btn">Start your free trial</a>
         </div>

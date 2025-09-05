@@ -6,8 +6,8 @@
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <h3>IT INFRASTRUCTURE SERVICES</h3>
-                    <p>An effective IT infrastructure implementation will result in significant improvements in your business productivity. Delivering interoperable and integrated, end-to-end solutions is a core competency of Edraak.</p>
-                    <p>Edraak provides simple, streamlined, and effective IT infrastructure Services and advanced IT infrastructure solutions to ensure that your business has the optimum base from which to build and run its operations.</p>
+                    <p>An effective IT infrastructure implementation will result in significant improvements in your business productivity. Delivering interoperable and integrated, end-to-end solutions is a core competency of RAQMITA.</p>
+                    <p>RAQMITA provides simple, streamlined, and effective IT infrastructure Services and advanced IT infrastructure solutions to ensure that your business has the optimum base from which to build and run its operations.</p>
                     <div class="product-header-btns">
                         
                     </div>
@@ -23,7 +23,7 @@
     <div class="it-infrastructure-services">
         <div class="container">
             <h3>Services</h3>
-            <p>With Edraak ITS’s assistance, our clients are guided, whether it be an entire project or a series of business enablers, equipping you with IT infrastructure, applications, and services that enhance your ICT environment.</p>
+            <p>With RAQMITA ITS’s assistance, our clients are guided, whether it be an entire project or a series of business enablers, equipping you with IT infrastructure, applications, and services that enhance your ICT environment.</p>
             <div class="row">
                 <div class="col-lg-3 col-md-4">
                     <div class="it-infrastructure-service-box d-flex align-items-center">

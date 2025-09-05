@@ -66,7 +66,7 @@
     <!-- Start Fixed Sec -->
     <section class="products-fixed-sec text-center">
         <div class="container">
-            <h2>Edraak Systems</h2>
+            <h2>RAQMITA Systems</h2>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit quisquam velit fugit quaerat possimus voluptatum dicta laborum molestiae eligendi libero ullam beatae soluta sint at</p>
             <a href="#" class="btn">Start your free trial</a>
         </div>

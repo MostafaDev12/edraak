@@ -6,7 +6,7 @@
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <h3>oracle platforms</h3>
-                    <p>EDRAAK provide: more and more services in all middle east area business application is one of their services, also mobile application, big data management and AI Solutions this services implemented by many partners and many technologies</p>
+                    <p>RAQMITA provide: more and more services in all middle east area business application is one of their services, also mobile application, big data management and AI Solutions this services implemented by many partners and many technologies</p>
                 </div>
                 <div class="col-md-5">
                     <img src="assets/images/oracle/oracle.png" class="w-100">
@@ -24,7 +24,7 @@
                 </div>
                 <div class="col-lg-8 col-md-7">
                     <h3>Analytics and BI Services</h3>
-                    <p>Through our Analytics and Business Intelligence services portfolio we enable our customer to make better data-driven decisions in an increasingly complex environment. We make sure that the right people have the right information, with the right quality, at the right time Edraak perfect in this</p>
+                    <p>Through our Analytics and Business Intelligence services portfolio we enable our customer to make better data-driven decisions in an increasingly complex environment. We make sure that the right people have the right information, with the right quality, at the right time RAQMITA perfect in this</p>
                 </div>
             </div>
         </div>
@@ -79,7 +79,7 @@
                     <div class="mb-3">
                         <h3>Identity and Access Management Services (IAM)</h3>
                         <p>We automate the administration of user access privileges across a company's resources throughout the entire identity management IDM life cycle using Oracle Identity Manager OIM.</p>
-                        <span>Edraak uses Oracle Identity Management Services IDM in order to allow organizations to manage the end-to-end life cycle of their user identities across resources both within and beyond the firewall, independently from enterprise applications. P Systems provides identity administration and role management; user provisioning and compliance; web applications and web services access control; single sign-on and federated identities; fraud detection; strong, multifactor authentication and risk management; role governance and identity analytics, audit and reports</span>
+                        <span>RAQMITA uses Oracle Identity Management Services IDM in order to allow organizations to manage the end-to-end life cycle of their user identities across resources both within and beyond the firewall, independently from enterprise applications. P Systems provides identity administration and role management; user provisioning and compliance; web applications and web services access control; single sign-on and federated identities; fraud detection; strong, multifactor authentication and risk management; role governance and identity analytics, audit and reports</span>
                     </div>
                 </div>
                 <div class="col-md-5">
