@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Ensure the request is not already HTTPS or the correct domain
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^shtegin\.com$ [NC]
+RewriteRule ^(.*)$ https://shtegin.com/$1 [L,R=301]
+
+</IfModule>

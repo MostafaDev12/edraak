@@ -1,0 +1,241 @@
+
+.about.statistics ul,
+footer ul,
+.app-types ul,
+.solid-sec ul,
+.mcommerce ul,
+.applications  ul{
+    padding: 0;
+}
+@media only screen and (min-width: 992px){
+    .dropdown-menu .submenu {
+        right: 100%;
+        left: unset;
+    }
+}
+.navbar-nav li{
+    text-align: right;
+}
+.languages-dropdown-menu{
+	left: 0;
+	right: unset;
+}
+.languages-dropdown-menu li img,
+.mob-langs img{
+	margin-right: 0;
+	margin-left: 6px;
+}
+.about h1::before{
+    right: 0;
+    left: unset;
+}
+.about li i {
+    margin-right: 0;
+    margin-left: 8px;
+}
+.feature-box .feature-icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.partners h2 span {
+    padding: 0 0 0 15px;
+}
+footer button{
+    left: 5px;
+    right: unset;
+}
+.cloud-models h3:before {
+   right: unset;
+   left: -50px;
+}
+.cloud-models h3:after {
+   left: -70px;
+   right: unset;
+}
+.model-adv p::before {
+    right: 0;
+    left: unset;
+}
+.model-adv p {
+   padding-left: unset;
+   padding-right: 20px;
+}
+.it-infrastructure-services i {
+    margin-right: unset;
+    margin-left: 8px;
+}
+.when-erp h2 {
+    padding-left: 0;
+    padding-right: 30px;
+}
+.when-erp h2:before {
+    right: 0;
+    left: unset;
+}
+.crm-comparison th,
+.erp-comparison th{
+    text-align: right;
+}
+.erp-size h4 {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.erp-size h4:before {
+    left: unset;
+    right: 0;
+}
+.solid-img-sec{
+    direction: ltr;
+}
+.solid-sec li i {
+    margin-left: 6px;
+    margin-right: 0;
+}
+.website-video-2 i{
+    margin-left: 0;
+    margin-right: .5rem;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
+.mobile-header{
+    direction: ltr;
+    text-align: right;
+}
+.applications ul li,
+.app-types ul li,
+.mcommerce ul li {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.applications ul li:before,
+.app-types ul li:before,
+.mcommerce ul li:before{
+    right: 0;
+    left: unset;
+}
+.applications a{
+    direction: ltr;
+}
+.oracle-dark h3 {
+    padding-left: 0;
+    padding-right: 15px;
+}
+.oracle-dark h3::before {
+   left: unset;
+   right: 0;
+   transform: rotate(180deg);
+   -webkit-transform: rotate(180deg);
+   -moz-transform: rotate(180deg);
+   -ms-transform: rotate(180deg);
+   -o-transform: rotate(180deg);
+}
+.blob {
+    right: 50px;
+    left: unset;
+}
+.product-box label .checkmark {
+    right: -25px;
+    left: unset;
+}
+.pricing-box i {
+    left: 0;
+    right: unset;
+}
+.product-box .media .mr-3{
+    margin-left: 1rem;
+    margin-right: 0 !important;
+}
+.contact-form{
+    text-align: right;
+}
+.contact-form .form-check{
+    direction: rtl;
+}
+.form-check-label {
+    padding-left: unset;
+    padding-right: 1.25rem;
+}
+.product-video-sec a .blob {
+    right: unset;
+}
+.careers{
+    direction: rtl;
+}
+.filter-by{
+    text-align: right;
+}
+.careers .career-box{
+    text-align: right;
+}
+.careers .career-box p.parg-icon i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.show-hidden-filtering span {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+/* Mobile Menu */
+.mobile-menu li a{
+    text-align: right;
+}
+@media (max-width: 991px){
+    .mobile-menu-toggler {
+        right: 1rem;
+        left: unset;
+    }
+    .mobile-logo {
+        left: 1rem;
+        right: unset;
+    }
+}
+
+.mobile-menu-toggler i{
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
+.mobile-menu-container{
+    right: 0;
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    -moz-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    -o-transform: translateX(100%);
+}
+.mobile-menu li a{
+    margin-right: unset;
+    margin-left: 50px;
+}
+.mobile-menu > li i, .mobile-menu > li ul .right-arrow i{
+    right: unset;
+    left: 10px;
+}
+.mobile-menu-toggler{
+    left: unset;
+    right: 1rem;
+}
+.mobile-menu-close{
+    left: 1rem;
+    right: unset;
+}
+.mobile-menu li a {
+    padding: 1.1rem 1.5rem 1.1rem 0;
+}
+.mobile-menu > li i, .mobile-menu > li ul .right-arrow i{
+    transform: rotate(180deg);
+}
+.sidebar-show{
+    transform: unset;
+    visibility: visible
+}
+.sidebar-transform{
+    transform: translateX(100%);
+    visibility: hidden;
+}
