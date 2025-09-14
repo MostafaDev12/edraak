@@ -39,7 +39,7 @@
 </script>
 </head>
 <body>
- <div class="career-loading hide">
+ <div class="career-loading ">
     <img src="{{asset('assets/images/raqmita.gif')}}">
 </div> 
 {{-- <div class="top-header py-3 px-4">

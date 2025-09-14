@@ -63,11 +63,15 @@
     </footer>
     <!-- End Footer -->
     <!-- Loader -->
-    <div id = "loading" style="font-size: 12px">
+    {{-- <div id = "loading" style="font-size: 12px">
         <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_ot1byxbn.json"  background="transparent"  speed="1" style="width: 500px;height: 500px;margin: auto;"   loop autoplay></lottie-player>
-    </div>
+    </div> --}}
 
-    
+    <script>
+  window.addEventListener('load', function () {
+    document.querySelector('.career-loading').classList.add('hide');
+  });
+</script>
     <script>
     var loading = document.getElementById("loading");
         document.onreadystatechange = function() {
