@@ -42,7 +42,7 @@
  <div class="career-loading hide">
     <img src="{{asset('assets/images/raqmita.gif')}}">
 </div> 
-<div class="top-header py-3 px-4">
+{{-- <div class="top-header py-3 px-4">
     <div class="container-fluid d-flex align-items-center justify-content-center justify-content-md-between flex-wrap">
         <div class="left-header d-flex align-items-center justify-content-center">
             <span><a href="tel:+966538551748"><i class="fas fa-phone"></i> +966 538551748</a></span> 
@@ -58,7 +58,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <nav class="navbar navbar-expand-lg navbar-dark">
  <div class="container-fluid">
  	 <a class="navbar-brand" href="{{url('/')}}"><img src="{{asset('assets/images/logo.png')}}"></a>
