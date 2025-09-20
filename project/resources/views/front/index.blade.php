@@ -14,7 +14,7 @@
                             <div class="col-md-7 header-q wow fadeInLeft">
                                 <span>Finally a modern</span>
                                 <h1><span>{{ __('site.lang1') }}</span> {{ __('site.lang2') }}</h1>
-                                <p>{{ __('site.lang3') }}</p>
+                                <p>{{ __('site.lang14') }}</p>
                                 <div class="header-btns d-flex align-items-center">
                                     <a href="https://wa.me/+966538551748" target="_blank">{{ __('site.contact us') }}</a>
                                     <div class="call-input d-flex align-items-center">
@@ -205,8 +205,11 @@
         <div class="row">
             <div class="col-md-6">
                 <h1>{{ __('site.lang12') }} <span>{{ __('site.lang1') }}</span></h1>
-                <h2>{{ __('site.lang13') }}</h2>
-                <p>{{ __('site.lang14') }}</p>
+                {{-- <h2>{{ __('site.lang13') }}</h2> --}}
+                {{-- <p>{{ __('site.lang14') }}</p> --}}
+                <p>{{ __('site.lang31') }}</p>
+                <p>{{ __('site.lang32') }}</p>
+                <p>{{ __('site.lang33') }}</p>
                 <!--<ul class="list-unstyled">-->
                 <!--    <li><i class="fas fa-check-circle"></i> 100% Client Satisfaction</li>-->
                 <!--    <li><i class="fas fa-check-circle"></i> 100% Client Satisfaction</li>-->
@@ -266,9 +269,107 @@
             </div>
             <div class="col-lg-6">
                 <span>{{ __('site.lang15') }}</span>
-                <h3>{{ __('site.lang16') }}</h3>
+                {{-- <h3>{{ __('site.lang16') }}</h3> --}}
                 <p>{{ __('site.lang17') }}</p>
-                <a href="{{url('/products')}}">{{ __('site.lang18') }}</a>
+                {{-- <a href="{{url('/products')}}">{{ __('site.lang18') }}</a> --}}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <span>{{ __('site.lang34') }}</span>
+                {{-- <h3>{{ __('site.lang16') }}</h3> --}}
+                <p>{{ __('site.lang35') }}</p>
+                {{-- <a href="{{url('/products')}}">{{ __('site.lang18') }}</a> --}}
+            </div>
+            <div class="col-lg-6 wow fadeInUp">
+                <div class="row">
+                    <div class="col-6 mt-3">
+                        <div class="service-box service-box-1">
+                            <div class="img-container">
+                                <img src="assets/images/services/cloud-storage.svg">
+                            </div>
+                            <h3>Cloud Computing</h3>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="service-box service-box-2">
+                            <div class="img-container">
+                                <img src="assets/images/services/computer.svg">
+                            </div>
+                            <h3>It &amp; Infrastructure</h3>
+                        </div>
+                    </div>
+                    <div class="col-6 mt-4">
+                        <div class="service-box service-box-3">
+                            <div class="img-container">
+                                <img src="assets/images/services/backup-file.svg">
+                            </div>
+                            <h3>Backup &amp; Recovery</h3>
+                        </div>
+                    </div>
+                    <div class="col-6 mt-2">
+                        <div class="service-box service-box-4">
+                            <div class="img-container">
+                                <img src="assets/images/services/online-support.svg">
+                            </div>
+                            <h3>Online Support</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 wow fadeInUp">
+                <div class="row">
+                    <div class="col-6 mt-3">
+                        <div class="service-box service-box-1">
+                            <div class="img-container">
+                                <img src="assets/images/services/cloud-storage.svg">
+                            </div>
+                            <h3>Cloud Computing</h3>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="service-box service-box-2">
+                            <div class="img-container">
+                                <img src="assets/images/services/computer.svg">
+                            </div>
+                            <h3>It &amp; Infrastructure</h3>
+                        </div>
+                    </div>
+                    <div class="col-6 mt-4">
+                        <div class="service-box service-box-3">
+                            <div class="img-container">
+                                <img src="assets/images/services/backup-file.svg">
+                            </div>
+                            <h3>Backup &amp; Recovery</h3>
+                        </div>
+                    </div>
+                    <div class="col-6 mt-2">
+                        <div class="service-box service-box-4">
+                            <div class="img-container">
+                                <img src="assets/images/services/online-support.svg">
+                            </div>
+                            <h3>Online Support</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <span>{{ __('site.lang36') }}</span>
+                {{-- <h3>{{ __('site.lang16') }}</h3> --}}
+                <p>{{ __('site.lang37') }}</p>
+                {{-- <a href="{{url('/products')}}">{{ __('site.lang18') }}</a> --}}
             </div>
         </div>
     </div>
@@ -330,149 +431,47 @@
 </section>
 <!-- End Features -->
 <!-- Start Projects -->
-<div class="projects">
-    <div class="text-center">
-        <h2>Our Projects</h2>
-    </div>
-    <div class="container">
-        <div class="filters text-center mb-4">
-            <button type="button" data-mixitup-control data-filter="all" class="btn btn-primary mb-2">All</button>
-            <button type="button" data-mixitup-control data-filter=".web" class="btn btn-success mb-2">Web Development</button>
-            <button type="button" data-mixitup-control data-filter=".mobile"  class="btn btn-danger mb-2">Mobile Application</button>
-            <button type="button" data-mixitup-control data-filter=".erp" class="btn btn-warning mb-2">ERP</button>
-        </div>
-        <div class="row partner-boxes">
-            <div class="col-lg-4 col-md-6 mix web mb-4">
-                <div class="project-item">
-                    <div class="project-data">
-                        <div class="project-data-front">
-                            <i class="fas fa-code"></i>
-                        </div>
-                        <div class="project-data-back">
-                            <p><a href="#">XYZ For trade</a></p>
-                            <div class="icons">
-                                <a href="#" target='_blank'><i class="fas fa-th-large"></i></a>
-                            </div>
-                            <p>Web Development</p>
-                        </div>
-                    </div>
-                    <div class="project-pic">
-                        <img src="assets/images/partners/mobile.jpg"/>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mix web mb-4">
-                <div class="project-item">
-                    <div class="project-data">
-                        <div class="project-data-front">
-                            <i class="fas fa-code"></i>
-                        </div>
-                        <div class="project-data-back">
-                            <p><a href="#">XYZ For trade</a></p>
-                            <div class="icons">
-                                <a href="#" target='_blank'><i class="fas fa-th-large"></i></a>
-                            </div>
-                            <p>Web Development</p>
-                        </div>
-                    </div>
-                    <div class="project-pic">
-                        <img src="assets/images/partners/mobile.jpg"/>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mix web mb-4">
-                <div class="project-item">
-                    <div class="project-data">
-                        <div class="project-data-front">
-                            <i class="fas fa-code"></i>
-                        </div>
-                        <div class="project-data-back">
-                            <p><a href="#">XYZ For trade</a></p>
-                            <div class="icons">
-                                <a href="#" target='_blank'><i class="fas fa-th-large"></i></a>
-                            </div>
-                            <p>Web Development</p>
-                        </div>
-                    </div>
-                    <div class="project-pic">
-                        <img src="assets/images/partners/mobile.jpg"/>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mix mobile mb-4">
-                <div class="project-item">
-                    <div class="project-data">
-                        <div class="project-data-front">
-                            <i class="fas fa-code"></i>
-                        </div>
-                        <div class="project-data-back">
-                            <p><a href="#">XYZ For trade</a></p>
-                            <div class="icons">
-                                <a href="#" target='_blank'><i class="fas fa-th-large"></i></a>
-                            </div>
-                            <p>Mobile Application</p>
-                        </div>
-                    </div>
-                    <div class="project-pic">
-                        <img src="assets/images/partners/mobile.jpg"/>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mix erp mb-4">
-                <div class="project-item">
-                    <div class="project-data">
-                        <div class="project-data-front">
-                            <i class="fas fa-code"></i>
-                        </div>
-                        <div class="project-data-back">
-                            <p><a href="#">XYZ For trade</a></p>
-                            <div class="icons">
-                                <a href="#" target='_blank'><i class="fas fa-th-large"></i></a>
-                            </div>
-                            <p>ERP</p>
-                        </div>
-                    </div>
-                    <div class="project-pic">
-                        <img src="assets/images/partners/mobile.jpg"/>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mix mobile mb-4">
-                <div class="project-item">
-                    <div class="project-data">
-                        <div class="project-data-front">
-                            <i class="fas fa-code"></i>
-                        </div>
-                        <div class="project-data-back">
-                            <p><a href="#">XYZ For trade</a></p>
-                            <div class="icons">
-                                <a href="#" target='_blank'><i class="fas fa-th-large"></i></a>
-                            </div>
-                            <p>Mobile Application</p>
-                        </div>
-                    </div>
-                    <div class="project-pic">
-                        <img src="assets/images/partners/mobile.jpg"/>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+ 
 <!-- End Projects -->
 <!-- Start Partners -->
 <div class="partners">
     <div class="container">
         <h2><span>Our Partners</span></h2>
         <div class="owl-carousel owl-theme partner-carousel">
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
-            <div class="item"><img src="assets/images/partners/8.png"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/1.png" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/2-1-300x180.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/3-1.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/4-2-284x300.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/5.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/6-1-1024x218.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/7-1.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/8-1-1024x241.png"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/12.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/13.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/Logo-2-150x150.png.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/PECB-Logo-150ppi-1024x281.webp"></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/partners/weblimite-logo.png.webp"></div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="partners">
+    <div class="container">
+        <h2><span>Our Clients</span></h2>
+        <div class="owl-carousel owl-theme partner-carousel">
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/1-1.webp" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/1.png" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/2.png" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/3.webp" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/4.webp" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/5.webp" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/6.webp" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/7-2.png" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/8.png" ></div>
+            <div class="item"><img style="height: 90px;" src="assets/images/clients/9-2.webp" ></div>
+           
+            
         </div>
     </div>
 </div>

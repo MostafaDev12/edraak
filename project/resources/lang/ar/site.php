@@ -28,12 +28,14 @@ return [
     'lang11'=>'Enhance your business mobility by developing your mobile app. We develop incisive mobile apps for both iOS and Android that meet the needs of business and end-users and feature user-friendly interface to provide streamlined operations.',
     'lang12'=>'About',
     'lang13'=>'A Name You Can Trust',
-    
-    'lang15'=>'Our Mission',
+    'lang14'=>"RAQMITA شركة سعودية سريعة النمو، تقدم حلولاً متطورة للمؤسسات في مجال تكنولوجيا المعلومات، معززةً بذلك قدرتها كمزود حلول متكاملة من خلال مجموعة لا مثيل لها من المنتجات والخدمات في مجالات تكامل الأنظمة، والاستشارات والتنفيذ، واستعادة الأعمال، ودعم العمليات.
+
+كما تقدم RAQMITA خدمات شاملة ومصممة خصيصاً للشركات لمجموعة واسعة من منتجاتها وحلولها. صُمم هيكل RAQMITA المؤسسي بالكامل لجعل الشركة مرنةً ومتكيّفةً قدر الإمكان مع المتطلبات الديناميكية والمتطورة لعملائها وسوقها وحلولها. نتمتع بأفضل الممارسات الدولية والعالمية والموارد وقواعد المعرفة اللازمة لتوفير أي حل مطلوب.
+
+لا تتوقف RAQMITA عن السعي لمساعدة عملائنا على النجاح. يسعى فريقنا يومياً لإيجاد طرق جديدة ومبتكرة لمساعدة المؤسسات، مثل مؤسستكم، على زيادة إيراداتها، وتحسين نفقاتها، وتحسين أنظمة تكنولوجيا المعلومات وبنيتها التحتية. انطلاقاً من ركائز رؤيتنا المؤسسية الثلاثة، نستثمر في عملائنا الحاليين لتقديم قيمة متزايدة باستمرار. عملاؤنا الحاليون هم محور تركيزنا الوحيد، ويجب على كل منهم أن يتوقع التميز في كل جانب من جوانب RAQMITA.",
+    'lang15'=>'OUR SERVICES',
     'lang16'=>'Multiple Solutions and Services to Aid Diverse Industries',
-    'lang17'=>'We guarantee to do IT right for businesses. Whether it is managing a company’s entire IT footprint and operations, leading a project, or conducting an assessment – we bring best practices at every level of service.
-Our mission is to help organizations solve their most challenging IT problems through expert analysis, technology solution implementation, and experienced professionals.
-',
+    'lang17'=>'We offer top-notch solutions and products tailored to respond to the MENA market needs. Our services revolve around nourishing the digital transformation, adopting the latest approaches to help organizations establish their online presence. We have tailored solutions and products that suit businesses and enterprises.',
     'lang18'=>'All Products',
     'lang19'=>'Our Features',
     'lang20'=>'Believing in customer centricity, our solutions are built to ensure the growth of businesses and enterprises',
@@ -47,22 +49,4 @@ Our mission is to help organizations solve their most challenging IT problems th
     'lang28'=>'Our team is of high expertise to offer reactive and proactive procedures that support our partners and assist them to implement their business strategies.',
     'lang29'=>'',
     'lang30'=>'',
-    
-    'lang14'=>"RAQMITA is a fast-growing Saudi company that offers cutting-edge enterprise solutions in information technology, with its capability as a total solutions provider further enhanced with an unrivaled portfolio of products and services in Systems Integration, Consultation and Implementation, Business Recovery, and Operations Support.",
-    'lang31'=>"RAQMITA also provides comprehensive, tailored corporate services for a vast range of its products and solutions. RAQMITA's entire corporate structure is designed to make the company as flexible and as adaptive as possible to the dynamic and developing requirements of its customers, market, and solutions. We have access to international best practices, worldwide practices, resources, and knowledge bases to provide any required solution.",
-    'lang32'=>"RAQMITA never stops driving to help our customers succeed. Our team strives every day to find new and innovative ways to help organizations like yours grow revenue, optimize expenses and improve IT systems and infrastructure. Built on the 3 pillars of our corporate vision, we invest in our existing customers to deliver ever-increasing value. Our current customers are our only focus, and each should expect excellence from every aspect of RAQMITA
-.
-",
-    'lang33'=>"We are headquartered in Saudi Arabia, Riyadh and with access to many professionals in different areas, we strive to provide the highest quality service and maintain customer trust while continuing to add real value to their businesses.",
-
-'lang34'=>"Our Solutions",
-'lang35'=>"Your business needs powerful solutions and guidance to navigate today’s marketplace. With our experienced and multi-disciplined staff and custom solutions, Resolute is the best choice to provide your organization with IT solutions.
-At ESCON-TECH, we believe that the 1st step in providing any company a security solution is to be 100% honest with them. Security is less about deploying products that block threats and more about talking and planning in order to identify and assess potential risks and developing strategies to reduce risks.
-",
-'lang36'=>"Our values",
-'lang37'=>"HUMANISM, RESPECT, PASSION, INNOVATION, AND EXCELLENCE
-At RAQMITA, we believe in the power of people and technology. Our corporate values drive us to optimally address the challenges faced by the information technologies sectors through an in-depth understanding of customers’ needs and breakthrough innovations that challenge the status quo and deliver radically better products and services.
-",
-'lang38'=>"",
-
 ];
