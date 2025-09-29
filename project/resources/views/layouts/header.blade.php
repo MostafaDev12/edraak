@@ -152,22 +152,7 @@
                     <ul>
                         <li><a href="{{url('/cloud')}}"> Cloud Services </a></li>
                         <li><a href="{{url('/it-infrastructure')}}"> IT Infrastructure</a></li>
-                        <li class="right-arrow-parent">
-                            <a href="#"> IT Service Management</a> <i class="fas fa-angle-double-right"></i>
-                            <ul>
-                                <li><a href="#">End User Support (SD)</a></li>
-                                <li><a href="#">IVR Call Center</a></li>
-                                <li class="right-arrow-parent">
-                                    <a href="#">HW Management &amp; Maintenance </a> <i class="fas fa-angle-double-right"></i>
-                                    <ul>
-                                        <li><a href="#">Equipment Relocation</a></li>
-                                        <li><a href="#">schedule maintenance</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Backup &amp; Recovery</a></li>
-                                <li><a href="#">Remote Support</a></li>                                           
-                            </ul>
-                        </li>
+                        <li><a  href="{{url('/it-service-management')}}"> {{ __('site.nav_2') }}</a></li>
                     </ul>
                 </li>
                 <li class="right-arrow-parent">
@@ -179,19 +164,19 @@
                         <li><a href="{{url('/mobile')}}"> Mobile apps </a></li>                                           
                     </ul>
                 </li>
-                <li> <a href="{{url('/products')}}">{{ __('site.nav_6') }}</a> </li>
-                <li><a href="#">{{ __('site.nav_3') }}</a></li>
+                {{-- <li> <a href="{{url('/products')}}">{{ __('site.nav_6') }}</a> </li>
+                <li><a href="#">{{ __('site.nav_3') }}</a></li> --}}
                 <li class="right-arrow-parent">
                     <a href="#">{{ __('site.nav_5') }}</a><i class="fas fa-angle-double-right"></i>
                     <ul>
                         <li><a href="{{url('/oracle')}}"> Oracle Product </a></li>
                         <li><a href="{{url('/wso2')}}"> WSO2 </a></li>
-                        <li><a href="#"> .net </a></li>                                         
+                        <li><a  href="{{url('/system-integration')}}"> {{ __('site.nav_10') }}</a></li>                                   
                     </ul>
                 </li>
-                <li> <a href="{{url('/careers')}}">{{ __('site.nav_7') }}</a> </li>
+                {{-- <li> <a href="{{url('/careers')}}">{{ __('site.nav_7') }}</a> </li> --}}
                 <li> <a href="{{url('/contact')}}">{{ __('site.nav_8') }}</a> </li>
-                <li> <a href="{{url('/Customer-support')}}">{{ __('site.nav_9') }}</a> </li>
+                {{-- <li> <a href="{{url('/Customer-support')}}">{{ __('site.nav_9') }}</a> </li> --}}
                 <li class="right-arrow-parent mob-langs">
                     <a href="#"> @if(Session::has('language'))
 
