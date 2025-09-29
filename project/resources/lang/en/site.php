@@ -4,7 +4,7 @@ return [
     'contact us'=>'Contact us',
     'call us'=>'Call us for any details',
     'nav_1'=>'Home',
-    'nav_2'=>'It & Communication',
+    'nav_2'=>'IT Service Management',
     'nav_3'=>'Clients',
     'nav_4'=>'Solutions', 
     'nav_5'=>'Technologies',
@@ -12,7 +12,7 @@ return [
     'nav_7'=>'Careers',
     'nav_8'=>'Contact us',
     'nav_9'=>'Customer Support',
-    'nav_10'=>'',
+    'nav_10'=>'System Integration',
     'nav_11'=>'',
     'address'=>'8226,Al-Izdihar,Riyadh,Kingdom of Saudi Arabia',
     'lang1' => 'RAQMITA',
@@ -64,5 +64,46 @@ At ESCON-TECH, we believe that the 1st step in providing any company a security 
 At RAQMITA, we believe in the power of people and technology. Our corporate values drive us to optimally address the challenges faced by the information technologies sectors through an in-depth understanding of customers’ needs and breakthrough innovations that challenge the status quo and deliver radically better products and services.
 ",
 'lang38'=>"",
+
+
+'lang39'=>"IT Support Services",
+'lang40'=>"We Bridge the gap between your digital vision and reality with global technology services. We accelerate your digital transformation and support your company to gain the ability to operate from edge to cloud with the strategic help, operational support, and training you need.",
+'lang41'=>"At RAQMITA whatever type of support you need, from comprehensive managed IT helpdesk solutions to onsite
+resolution as well as preventative maintenance and monitoring of your systems, our trusted team has the
+tools and resources you need to keep your IT environment functioning efficiently.
+",
+'lang42'=>"When you avail your business of our helpdesk services, you are gaining access to certified technicians who are fully qualified to resolve your issues.",
+'lang43'=>"Our IT Support and Helpdesk Services cover:",
+'lang44'=>"Bilingual helpdesk support",
+'lang45'=>"On-site and remote support",
+'lang46'=>"Response and turnaround times guaranteed by Service Level Agreements",
+'lang47'=>"Expertise from senior specialists",
+
+'lang48'=>"Management Services :",
+'lang49'=>"Our project delivery, staffing services, and IT recruitment services are designed to help augment your existing staffing resources when you are short of key skill sets",
+'lang50'=>"These include:",
+'lang51'=>"Project managers",
+'lang52'=>"Solution and Technical architects",
+'lang53'=>"Systems/Business analysts",
+'lang54'=>"Software developers",
+'lang55'=>"Infrastructure specialists",
+'lang56'=>"And more",
+'lang57'=>"Get in touch",
+
+'lang58'=>"RAQMITA is a fast-growing Saudi company that offers cutting-edge enterprise solutions in information technology.",
+
+'lang59'=>"System Integration",
+'lang60'=>"To continuously improve your ways of working, you are constantly on the lookout for solutions that can help you become better, faster or more cost effective.",
+'lang61'=>"We help customers align every aspect of their business process with a smooth path to integration that maximizes value with an expert team in system integration services.",
+'lang62'=>"We are also constantly learning from our engagements with clients. We are quick to form partnerships with companies that offer innovation to achieve the above, and will support your ambitions by bringing our services and their products or tools to you, and set up a win-win situation.",
+'lang63'=>"System development and management",
+'lang64'=>"System development is very dear to us and we always develop systems with the full lifecycle in mind - from planning to management. We ensure that your systems develop in tandem with your changing business needs.",
+'lang65'=>"DevOps",
+'lang66'=>"None of us can see the future, but we design solutions for a world that is changing more and more rapidly. With agile system development and step-by-step development of functionality, faster implementation of tailored solutions is facilitated. All development is done in a continuous dialogue with you, the client. From the start, we focus on making application management easy, and we carry extensive knowledge regarding how and why the solution has been designed in a certain way into the application management phase.",
+'lang67'=>"",
+'lang68'=>"",
+    
+
+
 
 ];

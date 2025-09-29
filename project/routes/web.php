@@ -198,7 +198,7 @@ Route::prefix('admin')->group(function() {
 
 });
 
- \
+  
  Route::group(['middleware'=>'permissions:contact_us'],function(){
 
   Route::get('/page-settings/contact', 'Admin\PageSettingController@contact')->name('admin-ps-contact');
@@ -711,6 +711,12 @@ Route::get('/under-susbend', 'Front\FrontendController@userpay')->name('front-us
  
 Route::get('/cloud', function () {
     return view('front.cloud');
+});
+Route::get('/it-service-management', function () {
+    return view('front.it-service-management');
+});
+Route::get('/system-integration', function () {
+    return view('front.system-integration');
 });
 Route::get('/it-infrastructure', function () {
     return view('front.it-infrastructure');

@@ -11,7 +11,7 @@
                     <a href="{{url('/')}}">
                         <img src="{{asset('assets/images/white-logo.png')}}">
                     </a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, voluptates repellendus Dolor, voluptates repellendus Dolor, voluptates repellendus</p>
+                    <p>{{ __('site.lang58') }}</p>
                     <form action="{{route('front.subscribe')}}" id="subscribeform" method="POST">
                           {{csrf_field()}}
                      
@@ -23,10 +23,10 @@
                 <div class="col-lg-2 col-md-3 col-6 mb-4">
                     <h3>Company</h3>
                     <ul class="list-unstyled">
-                        <li><a href="{{url('/products')}}">{{ __('site.nav_6') }}</a></li>
+                        {{-- <li><a href="{{url('/products')}}">{{ __('site.nav_6') }}</a></li> --}}
                         <li><a href="#">Our Clients</a></li>
-                        <li><a href="{{url('/careers')}}">{{ __('site.nav_7') }}</a></li>
-                        <li><a href="{{url('/Customer-support')}}">{{ __('site.nav_9') }}</li>
+                        {{-- <li><a href="{{url('/careers')}}">{{ __('site.nav_7') }}</a></li> --}}
+                        {{-- <li><a href="{{url('/Customer-support')}}">{{ __('site.nav_9') }}</li> --}}
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-3 col-6 mb-4">

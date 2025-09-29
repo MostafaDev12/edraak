@@ -74,20 +74,8 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="{{url('/cloud')}}"> Cloud Services </a></li>
 			  <li><a class="dropdown-item" href="{{url('/it-infrastructure')}}"> IT Infrastructure </a></li>
-			  <li><a class="dropdown-item" href="#"> IT Service Management &raquo; </a>
-			  	 <ul class="submenu dropdown-menu">
-				    <li><a class="dropdown-item" href="#">End User Support (SD)</a></li>
-				    <li><a class="dropdown-item" href="#">IVR Call Center</a></li>
-				    <li><a class="dropdown-item" href="#">HW Management &amp; Maintenance &raquo; </a>
-				    	<ul class="submenu dropdown-menu">
-						    <li><a class="dropdown-item" href="#">Equipment Relocation</a></li>
-						    <li><a class="dropdown-item" href="#">schedule maintenance</a></li>
-						</ul>
-				    </li>
-				    <li><a class="dropdown-item" href="#">Backup &amp; Recovery</a></li>
-				    <li><a class="dropdown-item" href="#">Remote Support</a></li>
-				 </ul>
-			  </li>
+			  <li><a class="dropdown-item" href="{{url('/it-service-management')}}"> {{ __('site.nav_2') }}</a></li>
+			 
 		    </ul>
         </li>
 		<li class="nav-item dropdown">
@@ -99,19 +87,19 @@
 			  <li><a class="dropdown-item" href="{{url('/mobile')}}"> Mobile apps </a></li>
 		    </ul>
 		</li>
-		<li class="nav-item"> <a class="nav-link" href="{{url('/products')}}">{{ __('site.nav_6') }}</a> </li>
-		<li class="nav-item"> <a class="nav-link" href="#">{{ __('site.nav_3') }}</a> </li>
+		{{-- <li class="nav-item"> <a class="nav-link" href="{{url('/products')}}">{{ __('site.nav_6') }}</a> </li> --}}
+		{{-- <li class="nav-item"> <a class="nav-link" href="#">{{ __('site.nav_3') }}</a> </li> --}}
         <li class="nav-item dropdown">
 			<a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> {{ __('site.nav_5') }} </a>
 		    <ul class="dropdown-menu">
 			  <li><a class="dropdown-item" href="{{url('/oracle')}}"> Oracle Product </a></li>
 			  <li><a class="dropdown-item" href="{{url('/wso2')}}"> WSO2 </a></li>
-			  <li><a class="dropdown-item" href="#"> .net </a></li>
+			  <li><a class="dropdown-item" href="{{url('/system-integration')}}"> {{ __('site.nav_10') }}</a></li>
 		    </ul>
 		</li>
-		<li class="nav-item"> <a class="nav-link" href="{{url('/careers')}}">{{ __('site.nav_7') }}</a> </li>
+		{{-- <li class="nav-item"> <a class="nav-link" href="{{url('/careers')}}">{{ __('site.nav_7') }}</a> </li> --}}
 		<li class="nav-item"> <a class="nav-link" href="{{url('/contact')}}">{{ __('site.nav_8') }}</a> </li>
-		<li class="nav-item"> <a class="nav-link" href="{{url('/Customer-support')}}">{{ __('site.nav_9') }}</a> </li>
+		{{-- <li class="nav-item"> <a class="nav-link" href="{{url('/Customer-support')}}">{{ __('site.nav_9') }}</a> </li> --}}
 		<li class="nav-item dropdown">
 			<a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> 
 		

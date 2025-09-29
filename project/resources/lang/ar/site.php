@@ -4,7 +4,7 @@ return [
     'contact us'=>'Contact us',
     'call us'=>'Call us for any details',
     'nav_1'=>'Home',
-    'nav_2'=>'It & Communication',
+    'nav_2'=>'IT Service Management',
     'nav_3'=>'Clients',
     'nav_4'=>'Solutions', 
     'nav_5'=>'Technologies',
@@ -12,7 +12,7 @@ return [
     'nav_7'=>'Careers',
     'nav_8'=>'Contact us',
     'nav_9'=>'Customer Support',
-    'nav_10'=>'',
+    'nav_10'=>'System Integration',
     'nav_11'=>'',
     'address'=>'8226,Al-Izdihar,Riyadh,Kingdom of Saudi Arabia',
     'lang1' => 'RAQMITA',
@@ -49,4 +49,6 @@ return [
     'lang28'=>'Our team is of high expertise to offer reactive and proactive procedures that support our partners and assist them to implement their business strategies.',
     'lang29'=>'',
     'lang30'=>'',
+
+
 ];
